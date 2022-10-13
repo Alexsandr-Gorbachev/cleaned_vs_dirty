@@ -1,5 +1,4 @@
 # cleaned_vs_dirty
-# samsung research russia
 
 Работа в рамках курса от samsung research russia.
 Нейронные сети и компьютерное зрение.
